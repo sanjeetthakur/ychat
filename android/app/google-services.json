@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "211315354078",
+    "project_id": "y-chat-7c175",
+    "storage_bucket": "y-chat-7c175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211315354078:android:b26e1a8b33917aeca6554f",
+        "android_client_info": {
+          "package_name": "com.example.ychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211315354078-93e8bencsops7fgfgmibjj917te9vns0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ychat",
+            "certificate_hash": "45ef05afd675667abf13e32e3ee9b75dc94fcd8f"
+          }
+        },
+        {
+          "client_id": "211315354078-ra5nlao9j9hij40nkrllc4u33vrbhkb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6LpRPAW9kGUJgy39SDD0ukRDUvGl9uAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211315354078-8pljhpuo9kra90b01q3j8epn5q7gvpfm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211315354078-03m4fvt916qkcvagnqgdkll34qfhf7th.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ychat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
