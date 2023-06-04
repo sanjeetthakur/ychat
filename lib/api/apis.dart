@@ -74,8 +74,7 @@ class APIs {
           headers: {
             HttpHeaders.contentTypeHeader: 'application/json',
             HttpHeaders.authorizationHeader:
-                'key=AAAAMTNgad4:APA91bEFqo8KyfBe2a4Zg1wJmVcwH63RZ6gCm9uljElkqcKKZ3YpXEcv8W8sXLsENPOH_N25KsV4RST0xDkCq-YVV9QodsczGEee5FLwBtzbtlnq21T9v4p3AyOeTGWjTwwXCi9Rtl1-'
-          },
+                'key= Your Google Firebase Secret Key generated for push notification'},
           body: jsonEncode(body));
       log('Response status: ${res.statusCode}');
       log('Response body: ${res.body}');
